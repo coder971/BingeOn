@@ -66,5 +66,4 @@ BingeOn is a web application designed for exploring and reviewing movies. Users 
 ## Features
 - Browse a collection of movies.
 - Read and submit reviews for movies.
-- User authentication and authorization (if implemented).
 
