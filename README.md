@@ -4,6 +4,12 @@
 BingeOn is a web application designed for exploring and reviewing movies. Users can browse a collection of movies, read reviews, and submit their own reviews.
 
 ---
+## Screenshots
+![Screenshot 2025-03-20 at 12 29 07 AM](https://github.com/user-attachments/assets/895cbfa8-abaf-4d34-9f0d-65be4f8a6044)
+![Screenshot 2025-03-20 at 12 33 54 AM](https://github.com/user-attachments/assets/4c7ee6fa-a995-4802-8240-b735db28c66b)
+![Screenshot 2025-03-20 at 12 30 58 AM](https://github.com/user-attachments/assets/e5920fbf-3a89-4451-b5a9-802ddd85c4fb)
+![Screenshot 2025-03-20 at 12 31 06 AM](https://github.com/user-attachments/assets/46be4fe6-3bcb-4b78-a559-6cf6d17e12c5)
+
 
 ## Technologies Used
 
